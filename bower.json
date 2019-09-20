@@ -1,0 +1,16 @@
+{
+  "name": "tyl",
+  "version": "1.0.0",
+  "homepage": "https://github.com/zafar-saleem/tyl",
+  "authors": [
+    "Zafar Saleem"
+  ],
+  "description": "Boilerplate for apps from scratch",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "requirejs": null
+  }
+}
